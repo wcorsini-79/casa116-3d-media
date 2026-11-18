@@ -1,7 +1,7 @@
 # Casa 116 3D — Programa de postagem · 23 a 29/11/2026
 
-**Objetivo da semana:** gerar conversas no WhatsApp para os pedidos de Natal e de fim de ano (enfeites com nome, medalhas e troféus).
-**Como medir:** cada CTA tem uma palavra-chave (NATAL, PEÇA, MEDALHA, FILA). Conte quantas mensagens chegam com cada uma.
+**Objetivo da semana:** gerar conversas no WhatsApp para os pedidos de Natal (fila até 15/12), de fim de ano (medalhas e troféus) e do troféu Titans (pedidos até 28/11).
+**Como medir:** cada CTA tem uma palavra-chave (NATAL, PEÇA, MEDALHA, TROFÉU). Conte quantas mensagens chegam com cada uma.
 
 ## Regra de ouro: só mostrar o que é real
 Sem fotos prontas, o conteúdo desta semana vem de 3 fontes honestas:
@@ -41,9 +41,9 @@ Reserve horas nas impressoras para imprimir:
 | **Ter 24** | Carrossel "O que define o preço" (6 telas) | Quiz `s3` · bastidor do dia · `s8` | Responder as caixinhas em story |
 | **Qua 25** | **Reel 2** "Seus nomes viraram enfeite" + versão em **Reel de teste** | Contagem regressiva `s4` · repost das menções · `s8` | Marcar quem mandou os nomes |
 | **Qui 26** | Carrossel "Prêmios de fim de ano" (5 telas) | Caixinha `s5` · foto da medalha real · `s8` | **Post em colaboração** (opcional, veja abaixo) |
-| **Sex 27** | Post único Black Friday | Contagem `s4` · Canal `s6` · `s8` | Criar o **Canal de transmissão** · Nota: "Black Friday = vaga na fila" |
+| **Sex 27** | Post único "Troféu Titans pro seu evento" | Story: "último dia amanhã" · Canal `s6` · `s8` | Criar o **Canal de transmissão** · Nota: "Troféu Titans: pedidos até amanhã" |
 | **Sáb 28** | **Reel 3** "Ela troca de cor sozinha" | Adicione o seu `s7` · bastidor | — |
-| **Dom 29** | Sem post no feed | Resumo da semana · último aviso da fila · `s8` | **Live** de 20 min imprimindo ao vivo · mensagem no canal |
+| **Dom 29** | Sem post no feed | Resumo da semana · "fila de Natal até 15/12" · `s8` | **Live** de 20 min imprimindo ao vivo · mensagem no canal |
 
 Horário sugerido para o feed: 18h a 19h. Depois de 2 semanas, confira nas estatísticas da conta os horários em que seus seguidores estão mais ativos e ajuste.
 
@@ -64,6 +64,7 @@ Feito só com gravação de tela e com o celular. Não precisa de peça pronta, 
 **Legenda:**
 > Seu nome, impresso em 2 cores, pendurado na árvore. 🎄
 > Faço enfeites com o nome de cada um da família aqui em Serra/ES.
+> Pedidos até 15/12.
 > 👉 Manda **NATAL** no WhatsApp (27) 98152-2034 com os nomes.
 
 **Áudio:** música em alta no Instagram (aba de áudios em alta) com volume baixo, ou só o som da impressora.
@@ -108,11 +109,11 @@ Use os nomes que chegaram na caixinha de segunda. Se não chegar nenhum, use nom
 > Medalha e troféu com o nome do evento, de cada premiado e a sua logo, em até 4 cores.
 > Prazo é o que mais pesa: manda **MEDALHA** no WhatsApp (27) 98152-2034 com a data do evento.
 
-**Post Black Friday (sex)**
-> Black Friday na Casa 116: sem preço inflado pra dar desconto.
-> O que a gente tem é vaga na fila de Natal. Pedido fechado até domingo (29/11) entra primeiro.
-> Manda **FILA** no WhatsApp (27) 98152-2034.
-> [A CONFIRMAR: se quiser um bônus, a sugestão é "nome personalizado grátis", que custa pouco tempo de máquina. Não ofereça desconto em preço sem definir a margem.]
+**Post "Troféu Titans pro seu evento" (sex)**
+> O troféu que fizemos pro Titans Fight Championship (14ª edição, 80 atletas, 40 lutas) agora pode ser do seu evento. 🏆
+> Estatueta de muay thai, acabamento dourado metálico e base com o nome do seu campeonato.
+> Pedidos até 28/11. Manda **TROFÉU** no WhatsApp (27) 98152-2034 com a data do evento e a quantidade.
+> Foto: use uma foto real do troféu, se você tiver. Se não tiver, publique só a arte, sem render.
 
 ---
 
@@ -123,7 +124,7 @@ Use os nomes que chegaram na caixinha de segunda. Se não chegar nenhum, use nom
 | **Post fixado** | Fixe o carrossel "Quem somos". Quem chega no perfil entende em 5 segundos o que você faz |
 | **Destaques** | Use as 5 capas da pasta `artes/destaques`: Como pedir, Natal, Troféus, Bastidor, Clientes. Salve neles os stories da semana |
 | **Enquete / quiz / caixinha** | Use as artes `s1`, `s2`, `s3` e `s5` e coloque o sticker no espaço vazio do meio. Responda as caixinhas em story |
-| **Contagem regressiva** | `s4`. Defina a data limite da fila de Natal [A CONFIRMAR]. Quem toca no lembrete recebe aviso do Instagram |
+| **Contagem regressiva** | `s4`, com data final 15/12. Quem toca no lembrete recebe aviso do Instagram |
 | **Link** | `s8` com o sticker de link para `wa.me/5527981522034`. Repita todo dia |
 | **Adicione o seu** | `s7`: "mostra a sua árvore". Os seguidores respondem com stories, e isso espalha o perfil |
 | **Reel de teste** | Versão alternativa do Reel 2, exibida só para quem não segue |
@@ -142,7 +143,7 @@ Use os nomes que chegaram na caixinha de segunda. Se não chegar nenhum, use nom
 | Carrossel preço | | | PEÇA: |
 | Reel 2 / Reel de teste | | | NATAL: |
 | Carrossel prêmios | | | MEDALHA: |
-| Black Friday | | | FILA: |
+| Troféu Titans | | | TROFÉU: |
 | Reel 3 | | | MEDALHA: |
 
 Com essa tabela preenchida, a semana seguinte repete o formato que gerou mensagens e corta o que não gerou.
